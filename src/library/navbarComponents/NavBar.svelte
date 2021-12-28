@@ -28,6 +28,7 @@
     margin: 0;
     padding-bottom: 0.1em;
     font-size: 3.2rem;
+    letter-spacing: 1.1rem;
   }
   .logo {
     align-self: center;
