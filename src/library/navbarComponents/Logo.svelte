@@ -1,4 +1,3 @@
-<!-- test -->
 <div class="one">
   <div class="top" />
   <div class="mid"><a href="/">€</a></div>
@@ -12,7 +11,6 @@
   a:hover {
     font-size: 1.6rem;
     padding: 0.2em;
-    /* transform: translateY(2rem); */
   }
   .one {
     display: flex;

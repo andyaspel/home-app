@@ -24,8 +24,7 @@
     color: hsl(60, 16%, 87%);
     background-color: hsl(240, 91%, 17%);
   }
-  .page-title,
-  h1 {
+  .page-title h1 {
     margin: 0;
     padding-bottom: 0.1em;
     font-size: 3.2rem;
@@ -40,7 +39,6 @@
     align-self: center;
     padding: 0.2em;
     border: 0.2rem solid hsl(226, 63%, 84%);
-    text-decoration: none;
   }
   a {
     color: hsl(60, 16%, 87%);
@@ -50,7 +48,7 @@
     color: hsl(90, 42%, 48%);
     text-decoration: none;
   }
-   a:visited {
+  a:visited {
     color: hsl(258, 19%, 89%);
     border: 0.2rem solid hsl(192, 82%, 32%);
   }
